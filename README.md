@@ -5,19 +5,16 @@
 ## I'm a creative, musiclover an adventurist person who wants always challenges in her life.
 Birthday    | 11/09
 ------------| -------------
-Favorite color|  White
-Favorite food | Iskender kebap
+Favorite color| yellow
+Favorite food | pizze
 Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 ### Hobbies 
 
- - Tv-series
- - Flute
+ - Walking
+ - shopping
  - Tennis
- - Sport
-    - Jogging  :person_running:
-    - Jogging on the street 
->
+   
 
  
    
