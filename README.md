@@ -5,8 +5,8 @@
 <table>
    <thead>
     <tr>
-        <th>age</th>
-     <!--  <input type="date" name="">-->
+        <th>Birthday</th>
+     <input type="date" name=""
         <th>Favorite color</th>
         <th>Favorite food</th>
     </tr> 
