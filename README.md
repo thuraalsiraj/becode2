@@ -10,3 +10,8 @@
         <th>Favorite food</th>
     </tr> 
    </thead>
+ <tr>
+        <td 14</td>
+        <td>yellow</td>
+        <td>pizze</td>
+    </tr>
