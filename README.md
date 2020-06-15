@@ -5,14 +5,14 @@
 <table>
    <thead>
     <tr>
-        <th>Birthday</th>
-       <input type="date" name="">
+        <th>age</th>
+     <!--  <input type="date" name="">-->
         <th>Favorite color</th>
         <th>Favorite food</th>
     </tr> 
    </thead>
  <tr>
-        <td 13.05.2006</td>
+        <td> 13.05.2006</td>
         <td>yellow</td>
         <td>pizze</td>
     </tr>
