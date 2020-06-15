@@ -16,7 +16,12 @@ Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
  - Tennis
    ### A funny story
 *The funny story that happened to me was that I once fell on the bus but fell in the arms of a young man.*
-   
+###### TL;DR 
+
+When i did interrail with my friends we met a guy in Capri and he became our friend and guide.
+
+<< [previous](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| thura alsiraj || [next](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
+  
 
  
    
