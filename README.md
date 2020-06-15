@@ -17,7 +17,7 @@ Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
    ### A funny story
 *The funny story that happened to me was that I once fell on the bus but fell in the arms of a young man.*
 ###### TL;DR 
-
+The funny story that I fell
 
 
 << [previous](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| thura alsiraj || [next](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
