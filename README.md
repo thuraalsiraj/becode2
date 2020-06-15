@@ -6,10 +6,10 @@
    <thead>
     <tr>
         <th>Birthday</th>
- 
-        <th>Favorite color</th>
+     <th>Favorite color</th>
         <th>Favorite food</th>
-    </tr> 
+    </tr>
+     
    </thead>
  <tr>
         <td> 13.05.2006</td>
