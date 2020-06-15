@@ -3,16 +3,18 @@
 <img scr="https://github.com/thuraalsiraj/becode2/blob/master/bushra.jpg/>
 <p>i love pizze</p>
 <table>
+
    <thead>
     <tr>
         <th>Birthday</th>
-     <th>Favorite color</th>
+        <th>Favorite color</th>
         <th>Favorite food</th>
-    </tr>
-     
+    </tr> 
    </thead>
- <tr>
-        <td> 13.05.2006</td>
-        <td>yellow</td>
-        <td>pizze</td>
+   <tbody>
+    <tr>
+        <td >شيار</td>
+        <td>20</td>
+        <td>هولندا</td>
     </tr>
+   
