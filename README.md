@@ -3,7 +3,7 @@
 ## its nice to be important but its important to be nice
 ![MY photo](https://github.com/thuraalsiraj/becode2/blob/master/bushra.jpg)
 ## I'm a creative, musiclover an adventurist person who wants always challenges in her life.
-Birthday    | 28/02
+Birthday    | 11/09
 ------------| -------------
 Favorite color|  White
 Favorite food | Iskender kebap
